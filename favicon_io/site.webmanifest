@@ -4,7 +4,7 @@
     "description": "Camarero Inteligente de eventos y restaurantes",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#ffffff",
+    "background_color": "#fafafa",
     "theme_color": "#554696",
     "orientation": "portrait",
     "scope": "/",
